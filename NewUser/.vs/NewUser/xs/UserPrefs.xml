@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4A950793-3D16-4F56-9C74-643C87093999}|Default">
+  <MonoDevelop.Ide.ItemProperties.NewUser PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A8B8539-1946-4F7C-BD34-0723B60B7009" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController/DetailViewController.cs">
+    <Files>
+      <File FileName="Models/LocalStore.cs" Line="27" Column="26" />
+      <File FileName="Info.plist" />
+      <File FileName="ViewController/DetailViewController.cs" Line="1" Column="1" />
+      <File FileName="ViewController/RegisterViewController.cs" Line="6" Column="30" />
+      <File FileName="ViewController/UserListController.cs" Line="17" Column="8" />
+      <File FileName="ViewController/RegisterViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="Models/Registeration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewUser" expanded="True">
+            <Node name="NewUser" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewController" expanded="True">
+                <Node name="DetailViewController.cs" selected="True" />
+                <Node name="RegisterViewController.cs" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

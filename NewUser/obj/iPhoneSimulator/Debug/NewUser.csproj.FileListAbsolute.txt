@@ -1,0 +1,101 @@
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/NewUser.exe
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/NewUser.pdb
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Core.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Sqlite3.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Splat.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_e_sqlite3.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.internal.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/System.Reactive.dll
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.pdb
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.xml
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Splat.xml
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/System.Reactive.xml
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Core.xml
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Sqlite3.xml
+/Users/sathish/Projects/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.xml
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_PartialAppManifest.items
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/actool/_BundleResourceWithLogicalName.items
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_PartialAppManifest.items
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/optimized/
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csproj.CoreCompileInputs.cache
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csproj.CopyComplete
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.exe
+/Users/sathish/Projects/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.pdb
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/NewUser.exe
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/NewUser.pdb
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Core.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Sqlite3.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Splat.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_e_sqlite3.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.internal.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/System.Reactive.dll
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.pdb
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.xml
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Splat.xml
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/System.Reactive.xml
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Core.xml
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Sqlite3.xml
+/Users/sathishg/Downloads/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.xml
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csprojAssemblyReference.cache
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csproj.CoreCompileInputs.cache
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csproj.CopyComplete
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.exe
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.pdb
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/ibtool/_BundleResourceWithLogicalName.items
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_PartialAppManifest.items
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_BundleResourceWithLogicalName.items
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_PartialAppManifest.items
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_BundleResourceWithLogicalName.items
+/Users/sathishg/Downloads/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/NewUser.exe
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/NewUser.pdb
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Core.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Sqlite3.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Splat.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_e_sqlite3.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.internal.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/System.Reactive.dll
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.pdb
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Newtonsoft.Json.Bson.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Splat.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/System.Reactive.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Core.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.Sqlite3.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/bin/iPhoneSimulator/Debug/Akavache.xml
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/ibtool/_BundleResourceWithLogicalName.items
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_PartialAppManifest.items
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/actool/_BundleResourceWithLogicalName.items
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_PartialAppManifest.items
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/coremlc/_BundleResourceWithLogicalName.items
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.7/optimized/
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csprojAssemblyReference.cache
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csproj.CoreCompileInputs.cache
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.csproj.CopyComplete
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.exe
+/Users/sathishg/Documents/Projects/Charter/NewUser/NewUser/obj/iPhoneSimulator/Debug/NewUser.pdb
