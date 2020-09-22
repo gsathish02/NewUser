@@ -1,22 +1,25 @@
 ﻿<Properties StartupConfiguration="{4A950793-3D16-4F56-9C74-643C87093999}|Default">
   <MonoDevelop.Ide.ItemProperties.NewUser PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A8B8539-1946-4F7C-BD34-0723B60B7009" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NewUser/ViewController/UserListController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewUser/Models/LocalStore.cs">
     <Files>
       <File FileName="NewUser/Models/LocalStore.cs" Line="19" Column="10" />
-      <File FileName="NewUser/Models/Registeration.cs" Line="1" Column="1" />
-      <File FileName="NewUser/ViewController/DetailViewController.cs" Line="1" Column="1" />
-      <File FileName="NewUser/ViewController/RegisterViewController.cs" Line="1" Column="1" />
-      <File FileName="NewUser/ViewController/UserListController.cs" Line="1" Column="1" />
+      <File FileName="NewUser/Models/Registeration.cs" />
+      <File FileName="NewUser/ViewController/DetailViewController.cs" />
+      <File FileName="NewUser/ViewController/RegisterViewController.cs" />
+      <File FileName="NewUser/ViewController/UserListController.cs" Line="42" Column="5" />
+      <File FileName="NewUser/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="NewUser/Entitlements.plist" />
+      <File FileName="NewUser/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NewUser" expanded="True">
             <Node name="NewUser" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="ViewController" expanded="True">
-                <Node name="UserListController.cs" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="LocalStore.cs" selected="True" />
               </Node>
+              <Node name="ViewController" expanded="True" />
             </Node>
           </Node>
         </State>

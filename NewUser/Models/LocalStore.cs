@@ -14,7 +14,7 @@ namespace NewUser.Models
         static readonly Lazy<LocalStore> lazy = new Lazy<LocalStore>(() => new LocalStore());
         public static LocalStore SharedInstance { get { return lazy.Value; } }
 
-        //Get user data from DB
+        //Get user data from database
         public async Task<List<Registration>> GetUserAsync()
         {
             List<Registration> list = await BlobCache.UserAccount.GetObject<List<Registration>>(RECENT_USER)
@@ -22,7 +22,7 @@ namespace NewUser.Models
             return list;
         }
 
-        //Set to DB
+        //Set to database
         public async Task SetUserAsync(List<Registration> users)
         {
             await BlobCache.UserAccount.InsertObject(RECENT_USER, users);
